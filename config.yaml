@@ -1,0 +1,2 @@
+alpha_conservative: 0.01
+alpha_liberal: 0.05
